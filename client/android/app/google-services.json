@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "816521819994",
+    "project_id": "dating-daf3a",
+    "storage_bucket": "dating-daf3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816521819994:android:1898bdab77d6794166e563",
+        "android_client_info": {
+          "package_name": "com.example.black_tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816521819994-q5e5s5vc49pinle3a013sja8r7iobii8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx683ozMtBPYfbaM-GJYD3YX3rNysCq3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816521819994-q5e5s5vc49pinle3a013sja8r7iobii8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816521819994-vnkdgjr0u9rbvhjqekgm2brn8ksbc06c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.datingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816521819994:android:32a44d626d80f70d66e563",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816521819994-7es6cajq9bbqmg9in66a19rh2p69fevt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating_app",
+            "certificate_hash": "5a80a004fc67ced7724f128fd6da20382f69e2d1"
+          }
+        },
+        {
+          "client_id": "816521819994-ee1jthfl3d6jq6i849av2uoucbvt1run.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating_app",
+            "certificate_hash": "ef36b5daee50b2859a351742ef4cff9354491178"
+          }
+        },
+        {
+          "client_id": "816521819994-q5e5s5vc49pinle3a013sja8r7iobii8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx683ozMtBPYfbaM-GJYD3YX3rNysCq3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816521819994-q5e5s5vc49pinle3a013sja8r7iobii8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816521819994-vnkdgjr0u9rbvhjqekgm2brn8ksbc06c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.datingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816521819994:android:3ea3733779332f0166e563",
+        "android_client_info": {
+          "package_name": "com.siaaw.ally4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816521819994-q5e5s5vc49pinle3a013sja8r7iobii8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx683ozMtBPYfbaM-GJYD3YX3rNysCq3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816521819994-q5e5s5vc49pinle3a013sja8r7iobii8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816521819994-vnkdgjr0u9rbvhjqekgm2brn8ksbc06c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.datingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

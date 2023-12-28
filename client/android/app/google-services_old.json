@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "8224494734",
+    "project_id": "allyforyou",
+    "storage_bucket": "allyforyou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8224494734:android:12d6de3779170cdc3765df",
+        "android_client_info": {
+          "package_name": "com.siaaw.ally4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8224494734-mupcjfeb7kjuk83njhrj86o2i7hoemo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKufknnmCMwVHxEaGOfKUIJ6hwjnFawUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8224494734-mupcjfeb7kjuk83njhrj86o2i7hoemo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8224494734-qhielrmtg5egvu7v5hp93isvlsfgiacb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.websiteduniya.ally4UClient"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8224494734:android:75df83cf9416f6a13765df",
+        "android_client_info": {
+          "package_name": "com.websiteduniya.ally_4_u_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8224494734-mupcjfeb7kjuk83njhrj86o2i7hoemo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKufknnmCMwVHxEaGOfKUIJ6hwjnFawUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8224494734-mupcjfeb7kjuk83njhrj86o2i7hoemo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8224494734-qhielrmtg5egvu7v5hp93isvlsfgiacb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.websiteduniya.ally4UClient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
